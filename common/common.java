@@ -9,10 +9,6 @@ oscar
 
 
 
-
-
-
-
 victor
 ines
 carlos
