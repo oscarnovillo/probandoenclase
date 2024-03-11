@@ -1,4 +1,4 @@
 package ui;
 
-public class Oscar {
+public class Marina {
 }
