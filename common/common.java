@@ -1,3 +1,2 @@
 oscar
 david
-simon
