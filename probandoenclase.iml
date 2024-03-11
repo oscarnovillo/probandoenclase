@@ -9,6 +9,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="SonarLintModuleSettings">
+<<<<<<< HEAD
     <option name="uniqueId" value="6c704490-ee86-4a44-8d15-371941bb650f" />
+=======
+    <option name="uniqueId" value="32ebcb6c-a4f7-4206-ada0-86dbee95807a" />
+>>>>>>> origin/main
   </component>
 </module>
