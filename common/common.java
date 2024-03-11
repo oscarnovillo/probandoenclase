@@ -1,3 +1,2 @@
 oscar
-carlos
 david
