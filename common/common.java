@@ -1,4 +1,3 @@
 oscar
-carlos
 david
 nacho
